@@ -1,5 +1,6 @@
-i love lucy
+developing cvspharmacy lucy
 girl
+ping 
 boy
 student
 well
