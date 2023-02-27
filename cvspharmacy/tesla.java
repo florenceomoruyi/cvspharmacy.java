@@ -1,8 +1,3 @@
-il og
-hj
-jkjk
-jkjk
-jkjkl
 pooor
 pot
 labor
@@ -15,4 +10,8 @@ mother
 father
 baby
 come
-here
+her
+love
+love
+love
+e
