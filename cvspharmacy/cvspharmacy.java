@@ -6,10 +6,8 @@ well
 health
 come
 to schoo
-obi
-ayo
-shcool
-l
+mercy
+mercyl
 love raw goaa
 come
 go
