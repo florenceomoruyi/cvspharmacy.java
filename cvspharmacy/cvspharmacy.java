@@ -14,3 +14,10 @@ love raw goaa
 come
 go
 lagos
+edo
+warri
+love
+not
+not
+
+
