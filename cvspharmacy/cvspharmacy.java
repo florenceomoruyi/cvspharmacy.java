@@ -10,3 +10,7 @@ obi
 ayo
 shcool
 l
+love raw goaa
+come
+go
+lagos
