@@ -11,3 +11,8 @@ win
 tinubo
 crazy
 love
+mother 
+father
+baby
+come
+here
