@@ -1,0 +1,15 @@
+
+1.simone
+2.legah
+3.landmark
+4.dominion
+wq!
+
+vi list.txt
+touch list.txt hello.py greet.sh
+cat-n list.txt
+wq!
+cd
+12.grri
+13.boot
+

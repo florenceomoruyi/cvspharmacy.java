@@ -1,0 +1,5 @@
+debug.sh: line 1: debugging: command not found
+debug.sh: line 3: Date: command not found
+debug.sh: line 4: Pwd: command not found
+debug.sh: line 8: Pwd: command not found
+debug.sh: line 9: DATE: command not found
